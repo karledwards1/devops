@@ -1,0 +1,6 @@
+.idea
+.vagrant
+tmp
+logs
+build
+.DS_Store
